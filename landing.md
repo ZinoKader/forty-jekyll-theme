@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: My work
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'This is some of my cool work.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
